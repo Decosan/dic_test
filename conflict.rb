@@ -1,1 +1,1 @@
-puts "Mother Fuckers!!"
+puts 'Yo !! Ass holes!!!'
